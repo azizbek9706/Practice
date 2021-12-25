@@ -15,6 +15,15 @@
     align-items: center;
     font-size: 50px;
 }
+.mirkomil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    font-size: 80px;
+    background-color: #0b3968;
+    text-transform: uppercase;
+    color: rgb(39, 32, 32);
 .ibrohim{
     font-weight: 700;
     text-transform: uppercase;
