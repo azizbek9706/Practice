@@ -24,6 +24,25 @@
    background-color: black;
    color: red;
    text-transform: uppercase;
+.mirkomil{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 300px;
+    font-size: 80px;
+    background-color: #0b3968;
+    text-transform: uppercase;
+    color: rgb(39, 32, 32);
+.ibrohim{
+    font-weight: 700;
+    text-transform: uppercase;
+    height: 100%;
+    background-color: black;
+    color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
 }
 .footer{
     font-weight: 700;
@@ -35,4 +54,14 @@
     justify-content: center;
     align-items: center;
     font-size: 50px;
+}
+.komron{
+    height: 300px;
+    text-transform: uppercase;
+    justify-content: center;
+    display: flex;
+    font-size: 70px;
+    background-color: darkgreen;
+    color: white;
+    align-items: center;
 }
