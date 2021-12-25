@@ -15,6 +15,17 @@
     align-items: center;
     font-size: 50px;
 }
+.ibrohim{
+    font-weight: 700;
+    text-transform: uppercase;
+    height: 100%;
+    background-color: black;
+    color: gold;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 90px;
+}
 .footer{
     font-weight: 700;
     text-transform: uppercase;
