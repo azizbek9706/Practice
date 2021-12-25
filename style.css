@@ -26,3 +26,13 @@
     align-items: center;
     font-size: 50px;
 }
+.komron{
+    height: 300px;
+    text-transform: uppercase;
+    justify-content: center;
+    display: flex;
+    font-size: 70px;
+    background-color: darkgreen;
+    color: white;
+    align-items: center;
+}
